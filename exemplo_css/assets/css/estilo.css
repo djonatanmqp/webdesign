@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+/* Configurações globais */
+
+* {margin: 0;padding: 0;}
+
+body{
+    background-color: #FFD55E;
+}
+
+/* Configurações específicas */
+
+div{
+    margin: 50px;
+    padding: 5px;
+    height: 200px;
+    width: 200px;
+    background-color: rgba(26, 21, 9, 0.3);
+    border-radius: 5px;
+}
+div p {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+}
+
+h1 {
+    margin: 10px;
+    font-family: 'Satisfy', cursive;
+    color: #BB2649;
+    text-shadow:2px 2px 4px #333;
+}
+
+p{
+    font-family: 'Orbitron', sans-serif;
+}
